@@ -39,11 +39,11 @@ Each project folder contains:
 
 | Folder | Title / Topic | Assembler |
 |--------|---------------|-----------|
-| `Homework_1` | Bubble sort of integers | Jupiter (`.s`) |
-| `Homework_2` | String-to-number conversion and instruction count | Jupiter (`.s`) |
-| `Homework_3` | Computing n! with RISC-V ISA | Jupiter (`.s`) |
-| `Homework_4` | Bit String to Decimal Number | Jupiter (`.s`) |
-| `Homework_5` | Bit String to Single Precision Floating Number | RARS (`.asm`) |
+| `Project 1 Bubble Sort` | Bubble sort of integers | Jupiter (`.s`) |
+| `Project 2 StringToNumber Instruction Count` | String-to-number conversion and instruction count | Jupiter (`.s`) |
+| `Project 3 Computing n factorial` | Computing n! with RISC-V ISA | Jupiter (`.s`) |
+| `Project 4 Bit String to Decimal Number` | Bit String to Decimal Number | Jupiter (`.s`) |
+| `Project 5 Bit String to Single Precision Floating Number` | Bit String to Single Precision Floating Number | RARS (`.asm`) |
 
 > Each folder contains a README explaining the objective, code summary, and how to run the program.
 
@@ -53,7 +53,6 @@ Each project folder contains:
 
 - Input files are provided as `.txt` and screenshots as `.pdf` or `.png`.
 - All code was written as part of coursework and verified with sample inputs.
-- Problem names marked as “unspecified” can be updated when needed.
 
 ---
 
